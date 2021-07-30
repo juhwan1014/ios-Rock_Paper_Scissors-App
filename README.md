@@ -1,11 +1,11 @@
 # ios-Rock_Paper_Scissors-App
 
 <br />
-- This App is a Single View App
-- 2 UIImageView elements (one for each player's image)
-- 2 UIButtons, that when clicked, select a random image (rock, paper or scissors), and load this image into each player's UIImageView
-- A title label
-- A label that shows the game result
+- This App is a Single View App<br />
+- 2 UIImageView elements (one for each player's image)<br />
+- 2 UIButtons, that when clicked, select a random image (rock, paper or scissors), and load this image into each player's UIImageView<br />
+- A title label<br />
+- A label that shows the game result<br />
 <br /><br />
 
 **Rules:**
